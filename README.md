@@ -2,10 +2,6 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 
-**tiagofpr/tiagofpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Atualmente estou trabalhando como Analista de Suporte, atuando muito com Linux, PLSQL, leitura e interpretação de Código Java.
 - 🌱 Sou formado em Analise e Desenvolvimento de Sistemas na Universidade Positivo, estou estuando MBA Analise de Dados e Big Data na Univerisade Cruzeiro do Sul.
 - 👯 Estou procurando colaborar com códigos java, javaScript, HTML, pois ainda sou iniciante nessa aárea e desejo aprimorar meus conhecimentos.
