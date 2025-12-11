@@ -2,12 +2,13 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 
-- 🔭 Atualmente estou trabalhando como Analista de Suporte, atuando muito com Linux, PLSQL, leitura e interpretação de Código Java.
-- 🌱 Sou formado em Analise e Desenvolvimento de Sistemas na Universidade Positivo, estou estuando MBA Analise de Dados e Big Data na Univerisade Cruzeiro do Sul.
-- 👯 Estou procurando colaborar com códigos java, javaScript, HTML, pois ainda sou iniciante nessa aárea e desejo aprimorar meus conhecimentos.
-- 🤔 Estou procurando ajuda com projetos que estou desejvolvendo, são projetos simples mais interessantes.
-- 💬 Pergunte-me sobre meus projetos.
-- 📫 Como entrar em contato comigo: https://www.linkedin.com/in/tiagofpr/
+🔭 Atualmente atuo como Analista de Sistemas, trabalhando como desenvolvedor backend Java, realizando correções de bugs, implementação de melhorias, deploys em servidores Linux e sustentação de sistemas corporativos.
+💾 Experiência prática com Spring Boot, Hibernate, Maven, Oracle (SQL e PL/SQL), além de administração de ambientes Linux.
+🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Positivo e atualmente curso MBA em Análise de Dados e Big Data pela Universidade Cruzeiro do Sul.
+🚀 Busco colaborar em projetos Java e backend, sempre aprimorando minhas habilidades em arquitetura, boas práticas e qualidade de código.
+🧪 Tenho interesse em participar de projetos open source, resolver problemas reais e evoluir meu portfólio.
+💬 Fique à vontade para perguntar sobre meus projetos ou trocar ideias sobre desenvolvimento backend.
+📫 Como falar comigo: https://www.linkedin.com/in/tiagofpr/
 
 
 ## Ferramentas e Tecnologias
