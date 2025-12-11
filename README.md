@@ -3,28 +3,27 @@
 
 
 🔭 Atualmente atuo como Analista de Sistemas, trabalhando como desenvolvedor backend Java, realizando correções de bugs, implementação de melhorias, deploys em servidores Linux e sustentação de sistemas corporativos.
+
 💾 Experiência prática com Spring Boot, Hibernate, Maven, Oracle (SQL e PL/SQL), além de administração de ambientes Linux.
+
 🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Positivo e atualmente curso MBA em Análise de Dados e Big Data pela Universidade Cruzeiro do Sul.
+
 🚀 Busco colaborar em projetos Java e backend, sempre aprimorando minhas habilidades em arquitetura, boas práticas e qualidade de código.
+
 🧪 Tenho interesse em participar de projetos open source, resolver problemas reais e evoluir meu portfólio.
+
 💬 Fique à vontade para perguntar sobre meus projetos ou trocar ideias sobre desenvolvimento backend.
+
 📫 Como falar comigo: https://www.linkedin.com/in/tiagofpr/
 
 
-## Ferramentas e Tecnologias
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-
-## Estou aprendendo
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40"/>
-          
-          
-<div>
+ <div>
 <a href="https://github.com/tiagofpr">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofpr&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagofpr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>          
+</div>        
+        
 
 
 ## Contatos:
